@@ -1,1 +1,1 @@
-# ml-stuff-i-teached-as-TA-for-The-AI-Course
+# ml-stuff-i-taught-as-TA-for-The-AI-Course
